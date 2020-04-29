@@ -22,8 +22,8 @@ headers =  {"Accept" : "application/json, text/plain",
                }
 
 data = {"remember" : "true",
-            "username" : 'michael.beline@gmx.de',
-            "password" : 'belka999',
+            "username" : 'username',
+            "password" : 'password',
             "csrf_token": csrf_token
             }
 
